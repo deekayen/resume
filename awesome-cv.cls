@@ -76,8 +76,6 @@
   % Replace by the encoding you are using
   \RequirePackage[utf8]{inputenc}
 \fi
-% Needed to manage math fonts
-\RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
 % Needed to use icons from font-awesome
 % (https://github.com/posquit0/latex-fontawesome)
 \RequirePackage{fontawesome}
