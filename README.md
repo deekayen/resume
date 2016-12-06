@@ -13,3 +13,7 @@ And the pdf will be save as `resume.pdf` after spewing a bunch of warnings.
 ### MacOS
 
 http://www.texts.io/support/0001/
+
+## Example
+
+![David Norman resume](resume_cv.png)
