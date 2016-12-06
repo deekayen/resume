@@ -10,6 +10,12 @@ $ xelatex resume-cv.tex
 ```
 And the pdf will be save as `resume.pdf` after spewing a bunch of warnings.
 
+### Create PNG snapshot
+
+```
+pdftoppm -rx 300 -ry 300 -png resume_cv.pdf resume
+```
+
 ### MacOS
 
 http://www.texts.io/support/0001/
