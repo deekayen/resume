@@ -442,7 +442,7 @@
               \setbool{isstart}{false}
             }
             {\@headersocialsep}
-          \href{https://github.com/\@github}{\faGithubSquare\ \@github}
+          \href{https://github.com/\@github}{\faGithub\ \@github}
         }
       \ifthenelse{\isundefined{\@gitlab}}
         {}
