@@ -2,7 +2,7 @@
 
 ## Setup
 
-You need to download the full `texlive` and `texlive-xetex` packages.
+You need to download the full `texlive`, `texlive-xetex`, and `poppler-utils` packages.
 
 Once the full `texlive` suite is available, run:
 ```
